@@ -24,7 +24,5 @@ include:
 
 exclude: 
     - .gitignore
-    - .github
-    - _group information
     - LICENSE
     - README.md

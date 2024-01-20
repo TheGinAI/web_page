@@ -1,4 +1,4 @@
 ---
-title: Human Interactive AI Poker Game
+title: Group Web Page
 ---
 

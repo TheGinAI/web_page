@@ -1,4 +1,0 @@
----
-title: Group Web Page
----
-

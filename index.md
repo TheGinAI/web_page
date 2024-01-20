@@ -1,4 +1,4 @@
 ---
-title: The Gin - Human Interactive AI Poker Game
+title: Human Interactive AI Poker Game
 ---
 

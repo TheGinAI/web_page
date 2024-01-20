@@ -3,5 +3,7 @@ permalink: /about
 layout: page
 title: Group Members
 ---
-
-More details about me on this page with links to my social media profiles and so on.
+## Group Members and Roles
+* Kanglin Xu - kanglin.xu@ttu.edu
+* Tomas Rohatynski - trohatyn@ttu.edu
+* Zechariah Dunlap - zdunlap@ttu.edu

@@ -1,57 +1,77 @@
-<header>
+# The_Gin
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+A simple template of the project
 
-# GitHub Pages
+## Description
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+To utilize Machine Learning to train a model in playing the card game "gin", and to implement a User Interface to allow a human player to compete against the Artificial Neural Network. 
 
-</header>
+## Group Information
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+### Group Members and Roles
 
-## Finish
+* Kanglin Xu
+   * Role
+* Tomas Rohatynski
+   * Role
+* Zechariah Dunlap
+   * Role
+### Group Meeting and Activities
 
-_Congratulations friend, you've completed this course!_
+### Meeting Schedules
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+## Getting Started
 
-Your blog is now live and has been deployed!
+### Dependencies
 
-Here's a recap of all the tasks you've accomplished in your repository:
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+### Installing
 
-### What's next?
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+### Executing program
 
-<footer>
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## Help
 
----
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## Authors
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Contributors names and contact info
 
-</footer>
+* Kanglin Xu - kanglin.xu@ttu.edu
+* Tomas Rohatynski - trohatyn@ttu.edu
+* Zechariah Dunlap - zdunlap@ttu.edu
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)

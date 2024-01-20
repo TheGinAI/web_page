@@ -1,4 +1,4 @@
 ---
-title: The Gin's Web Page
+title: The Gin - Human Interactive AI Poker Game
 ---
 

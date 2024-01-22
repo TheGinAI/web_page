@@ -9,11 +9,13 @@ title: Group Members
   * UI Design
   * Report Organization
   * AI Learning Process
+    
 #### Tomas Rohatynski - President
   * In charge of code design and implementation.
   * Learning Environment
   * Tensorflow - Agent
   * AI Learning Process
+    
 #### Zechariah Dunlap - Director
   * In charge of meeting agenda.
   * Deliverable Power Point

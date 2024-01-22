@@ -1,7 +1,7 @@
 ---
 permalink: /about
 layout: page
-title: Group Members
+title: About
 ---
 ## Group Members and Roles
 #### Kanglin Xu - Chief Executive Officer

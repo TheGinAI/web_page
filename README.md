@@ -1,6 +1,6 @@
 # The_Gin
 
-A simple template of the project
+https://theginai.github.io/web_page/
 
 ## Description
 

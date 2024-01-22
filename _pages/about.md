@@ -7,12 +7,13 @@ title: About
 #### Kanglin Xu - Chief Executive Officer
   * In charge of group activities and time table
   * UI Design
-  * Report Organization
+  * Report LaTex Writer
   * AI Learning Process
     
 #### Tomas Rohatynski - President
   * In charge of code design and implementation
   * Learning Environment
+  * Git Repo Maintainer
   * Tensorflow - Agent
   * AI Learning Process
     

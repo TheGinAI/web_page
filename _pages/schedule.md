@@ -8,6 +8,6 @@ title: Meeting Schedules
 * (Besides Class Meeting Days)
 
 ## Presentation Date 
-* Stage 1 - 02/07/2024
+* Stage 1 - 02/12/2024
 * Stage 2 - 03/06/2024
 * Stage 3 - 04/24/2024

@@ -17,7 +17,7 @@ title: About
   * Tensorflow - Agent
   * AI Learning Process
     
-#### Zechariah Dunlap - Director
+#### Zechariah Dunlap - Director (Left the Group)
   * In charge of meeting agenda
   * Deliverable Power Point
   * UI Design
